@@ -1,0 +1,6 @@
+aaa
+fwrite($plik,"\n");
+aa
+To jest mój pierwszy post
+To jest jakaś ważna treść. To jest jakaś ważna treść. To jest jakaś ważna treść. To jest jakaś ważna treść. To jest jakaś ważna treść. 
+Jan
