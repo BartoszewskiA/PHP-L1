@@ -1,0 +1,9 @@
+{
+    "cpu": "i5",
+    "ram": "32 GB",
+    "gpu": "Radeon 4060",
+    "zamawiajacy": {
+        "imie": "Jan",
+        "nazwisko": "Kowalski"
+    }
+}
